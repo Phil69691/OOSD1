@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Event
+comment1.params=name\ date\ venue\ seatingCapacity
+comment1.target=Event(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ initializeSeatingChart()
+comment3.params=
+comment3.target=java.util.List\ getUpcomingEvents()
+comment4.params=
+comment4.target=void\ displaySeatingChart()
+comment5.params=row\ column
+comment5.target=boolean\ reserveSeat(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=java.lang.String\ getDate()
+numComments=8
